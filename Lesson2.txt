@@ -1,0 +1,14 @@
+Deploy a minikube cluster with two nodes
+a. deploy a simple pod
+
+
+b. operations with the nodes  first
+ --> labels
+ --> drain
+ --> cordon
+ --> taints
+ --> tolerations
+ --> affinity
+     pod-level
+     node-level
+ --> nodeselector
