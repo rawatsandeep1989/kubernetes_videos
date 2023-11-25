@@ -1,0 +1,15 @@
+a. what is kubernetes and its main components
+1. etcd
+2. schedular
+3. controller
+4. API server
+
+
+b. what is worker and master node
+kubeproxy
+kubelet
+container runtime
+
+https://kubernetes.io/docs/concepts/architecture/
+
+
